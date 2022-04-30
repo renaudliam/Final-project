@@ -1,0 +1,9 @@
+2022-04-10: Started the final project
+2022-04-11: Worked on creating an https connection to nasa api and retreiving info from the api. Worked on creating a database to store images and printing information about an image.
+2022-04-14: Created a image naming system. I also created a database table and worked on the print apod info function.
+2022-04-20: Polished up the print apod info function.
+2022-04-21: Finished get_image_path function. Finished get_apod_info function. Finished print_apod_info function.
+2022-04-24: Finished set_desktop_backround_image function
+2022-04-25: Modified print apod info function and moved sha256 code to download_apod_img function. 
+Completed image_already_db function.
+2022-04-27: Finalized assignment.
